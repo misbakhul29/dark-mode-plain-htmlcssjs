@@ -17,10 +17,11 @@ Berikut adalah variabel CSS yang digunakan untuk tema gelap:
   --toggle-bg: #374151;
   --toggle-text: #ffffff;
 }
+```
 
 ## Kode JavaScript untuk Toggle Dark Mode
 
-Berikut adalah fungsi JavaScript `toggleDarkMode()` yang digunakan untuk mengubah tema antara terang dan gelap:
+Berikut adalah fungsi JavaScript **`toggleDarkMode()`** yang digunakan untuk mengubah tema antara terang dan gelap:
 
 ```javascript
 <script>
