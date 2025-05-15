@@ -1,5 +1,12 @@
-﻿# dark-mode-plain-htmlcssjs
+# dark-mode-plain-htmlcssjs
 
+Proyek sederhana ini menunjukkan implementasi dark mode menggunakan HTML, CSS, dan JavaScript tanpa framework tambahan.
+
+## Konfigurasi CSS untuk Dark Mode
+
+Berikut adalah variabel CSS yang digunakan untuk tema gelap:
+
+```css
 [data-theme="dark"] {
   --bg-color: #111827;
   --container-bg: #1f2937;
